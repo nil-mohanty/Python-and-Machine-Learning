@@ -1,0 +1,5 @@
+..apple..
+this is an apples
+apple is red in colour
+apple. is a fruit.
+-apple is a fruit
